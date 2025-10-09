@@ -44,11 +44,10 @@ I enjoy crafting clean designs, improving user experiences, and continuously lea
 
 <table >
   <tr>
-    <!-- Project 1 -->
     <td width="45%" >
       <h3>🛒 E-Commerce Projec</h3>
       <p>
-        React e-commerce site built a modern and responsive e-commerce using React, tailwindcss, TanStackQuery.... 
+    Built a modern, responsive e-commerce app featuring a full shopping journey from product discovery to checkout. Used React 19 with Tailwind CSS, TanStack Query, React Hooks, Swiper, JWT, Formik & Yup, and React Hot Toast.
       </p>
      <div style="display:flex; justify-content:space-between; align-items:center; width:200px;" >
       <a href="https://e-commerc-app-ten.vercel.app/" target="_blank">
@@ -85,7 +84,7 @@ I enjoy crafting clean designs, improving user experiences, and continuously lea
     <td width="45%">
       <h3>📱 TEC APP</h3>
       <p>
-        React Ecommerce Website with React ,Tailwind , TanStak Query, with a pagination between API components to ensure clean architecture And switch between dark mood and light mood React, TailwindCSS, Swiper ,TanStackQuery, Axios,  Formik & Yup >
+        React Ecommerce Website with React ,Tailwind , TanStak Query, with a pagination between API components to ensure clean architecture And switch between dark mood and light mood React, TailwindCSS, Swiper ,TanStackQuery, Axios,  Formik & Yup .
       </p>
      <div style="display:flex; justify-content:space-between; align-items:center; width:200px;" >
       <a  href="https://small-e-commerc-web-master.vercel.app/" target="_blank">
