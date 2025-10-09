@@ -23,8 +23,8 @@ I enjoy crafting clean designs, improving user experiences, and continuously lea
 <br>
 <br>
 
-## Top Repositories
-<table width="100%">
+## 🚀 Top Projects
+<!-- <table width="100%">
   <tr  >
     <td width="40%" bgcolor="#282c34" valign="top" style="padding: 10px; border: 1px solid #30363d; border-radius: 6px;">
       <p style="font-size: 1.2em; font-weight: 600;">🛍️ <a href="YOUR_REPO_LINK_1">NestJS-Ecommerce</a></p>
@@ -37,7 +37,69 @@ I enjoy crafting clean designs, improving user experiences, and continuously lea
       <p>🟣 TypeScript</p>
     </td>
   </tr>
+</table> -->
+
+
+
+
+<table >
+  <tr>
+    <!-- Project 1 -->
+    <td width="45%" >
+      <h3>🛒 E-Commerce Projec</h3>
+      <p>
+        React e-commerce site built a modern and responsive e-commerce using React, tailwindcss, TanStackQuery.... 
+      </p>
+     <div style="display:flex; justify-content:space-between; align-items:center; width:200px;" >
+      <a href="https://e-commerc-app-ten.vercel.app/" target="_blank">
+        🔗 View Project
+      </a>
+     <a href="https://github.com/Abdelazemelwan1/e-commerc-app" target="_blank" style="display:flex; align-items:center; gap:4px;">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"  alt="AbdelazemElwan" height="15" width="20" />
+        GitHub Repo stars
+      </a>
+     </div>
+    </td>
+<td width="45%" >
+      <h3> DashBoards App</h3>
+      <p>
+        React Data Visualization Website Created a  modern and responsive web application for private clinic owners that features a complete registration journey from patient entry to discharge used React, TailwindCSS, Firebase ,Material UI, Lottie Animations.
+      </p>
+       <div style="display:flex; justify-content:space-between; align-items:center; width:200px;" >
+      <a href="https://crud-web-master-bice.vercel.app//" target="_blank">
+        🔗 View Project
+      </a>
+     <a href="https://github.com/Abdelazemelwan1/CRUD_Web_Master" target="_blank" style="display:flex; align-items:center; gap:4px;">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"  alt="AbdelazemElwan" height="15" width="20" />
+        GitHub Repo stars
+      </a>
+     </div>
+    </td>
+    
+  
+    
+  </tr>
+
+  <tr>
+    <!-- Project 3 -->
+    <td width="45%">
+      <h3>📱 TEC APP</h3>
+      <p>
+        React Ecommerce Website with React ,Tailwind , TanStak Query, with a pagination between API components to ensure clean architecture And switch between dark mood and light mood React, TailwindCSS, Swiper ,TanStackQuery, Axios,  Formik & Yup >
+      </p>
+     <div style="display:flex; justify-content:space-between; align-items:center; width:200px;" >
+      <a  href="https://small-e-commerc-web-master.vercel.app/" target="_blank">
+        🔗 View Project
+      </a>
+     <a href="https://github.com/Abdelazemelwan1/small-e-commerc-Web_Master" target="_blank" style="display:flex; align-items:center; gap:4px;">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"  alt="AbdelazemElwan" height="15" width="20" />
+        GitHub Repo stars
+      </a>
+     </div>
+    </td>
+  </tr>
 </table>
+
 
 ---
 <br>
@@ -55,12 +117,13 @@ I enjoy crafting clean designs, improving user experiences, and continuously lea
   alt="AbdelazemElwan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/abdelazem.elwan.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.linkedin.com/in/abdelazem-elwan-904619252/" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelazemelwan1&label=Profile%20views&color=0e75b6&style=flat" alt="abdelazemelwan1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelazemelwan1" alt="abdelazemelwan1" /></a> </p>
 
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelazemelwan1&show_icons=true&locale=en&layout=compact" alt="abdelazemelwan1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelazemelwan1&show_icons=true&locale=en" alt="abdelazemelwan1" /></p>
