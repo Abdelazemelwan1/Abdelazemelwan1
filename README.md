@@ -13,7 +13,7 @@ I enjoy crafting clean designs, improving user experiences, and continuously lea
 
 **📍 Location:** I'm based in **Egypt**
 
-**🔗 Portfolio:** See my portfolio at **[Abdelazem Elwan]([YOUR_PORTFOLIO_LINK](https://abdelazem-elwan.vercel.app/))**
+**🔗 Portfolio:** See my portfolio at **<a href="https://abdelazem-elwan.vercel.app/" target="_blank">Abdelazem Elwan</a>**
 
 
 **✉️ Contact:** You can contact me at **[Abdelazemelwan123@gmail.com](mailto:Abdelazemelwan123@gmail.com)**
