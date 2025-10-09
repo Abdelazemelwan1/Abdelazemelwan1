@@ -1,7 +1,7 @@
 
 # Hi 👋 My name is Abdelazem Elwan
 
-### front End developer
+## Front End Developer
 
 ![Developer Illustration](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
